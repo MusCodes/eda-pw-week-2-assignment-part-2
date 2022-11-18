@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We created a variable called 'name' and assign it to 'Dane'
+// we created a conditional stating  if 'name' is of equal value and type as 'Mary'.
+// we console.log ('Hi, Mary!').
+// or else, we console.log('How do you do?).
 
 //CODE
 /*
@@ -45,9 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// we declared a variable called secret.
+// we assigned 'code' the value of the numbers 1,2, and 3.
+// Here, were writing a conditional stating if 'code' and the numbers 123
+// are equal in value and type.
 //
 
 //CODE
@@ -70,10 +71,20 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we assigned 'isStudent' the value of true.
+// we set the variable "age" to the value of the number 34.
+// we set 'zip' value to the number 55407.
+// here, were created an if else if else conditional starting off with
+// if the conditional 'isStudent' is equal in type and value as
+// 'true', and 'zip' is greater than the number 80000.
+//we console.log('You're a student on the West Coast!').
+// here, we are stating if  the value of 'isStudent' equal to the same type
+// as 'false' or age is less than 30.
+// we than console.log('What are your hobbies?').
+//we created another else stating if 'isStudent is equal in type and value
+// as 'true'
+// than console.log('Welcome to Prime!').
+//our last else statement is console.log('How about the weather?').
 
 //CODE
 /*
