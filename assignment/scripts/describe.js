@@ -53,8 +53,6 @@ if (name === 'Mary') {
 // we assigned the variable 'secret' the value of 'duper'
 // we console.log(secret)
 
-
-
 //CODE
 /*
 let secret;
@@ -170,7 +168,7 @@ if (temp > 39 || time >= 4) {
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge
-// 
+//
 // -- it is, so we console.log 'enter'.
 
 /*
