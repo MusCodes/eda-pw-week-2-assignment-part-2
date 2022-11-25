@@ -24,9 +24,9 @@ if (number >= 2) {
 */
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// We created a variable called 'name' and assign it to 'Dane'
-// we created a conditional stating  if 'name' is of equal value and type as 'Mary'.
-// we console.log ('Hi, Mary!').
+// We created a variable called 'name' and assign it to 'Dane'. name is set to 'Dane'.
+// we created a conditional stating  if 'name' is of equal value and type as 'Mary'. name is being compared to 'Mary'.
+// we console.log ('Hi, Mary!'). 
 // or else, we console.log('How do you do?).
 
 //CODE
@@ -43,14 +43,14 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// we declared a variable called secret.
-// we assigned 'code' the value of the numbers 1,2, and 3.
+// we declared a variable called secret. secret is now a variable.
+// we assigned 'code' the value of the numbers 1,2, and 3. code is set to 123.
 // Here, were writing a conditional stating if 'code' and the numbers 123
-// are equal in value and type.
-// Secret is assigned value of 'super'
+// are equal in value and type. code is being compared to 123.
+// Secret is assigned value of 'super'. secret got set to 'super'
 // code is assigned to the value of 'code' which we previously gave the value of the numbers 123, multiplied by the number 2.
-//another conditional stating if code is greater than or equal to 250.
-// we assigned the variable 'secret' the value of 'duper'
+//another conditional stating if code is greater than or equal to 250. code is now set to code multiple by 2.
+// we assigned the variable 'secret' the value of 'duper'. Secret is set to 'duper'.
 // we console.log(secret)
 
 //CODE
@@ -73,18 +73,18 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// we assigned 'isStudent' the value of true.
-// we set the variable "age" to the value of the number 34.
-// we set 'zip' value to the number 55407.
+// we assigned 'isStudent' the value of true. isStudent is true.
+// we set the variable "age" to the value of the number 34. Age is 34
+// we set 'zip' value to the number 55407. zip is 55407
 // here, were created an if else if else conditional starting off with
 // if the conditional 'isStudent' is equal in type and value as
-// 'true', and 'zip' is greater than the number 80000.
+// 'true', and 'zip' is greater than the number 80000. is IsStudent same as true and is zip greater than 80000
 //we console.log('You're a student on the West Coast!').
 // here, we are stating if  the value of 'isStudent' equal to the same type
-// as 'false' or age is less than 30.
+// as 'false' or age is less than 30. is isStudent same has false or is age less than 30.
 // we than console.log('What are your hobbies?').
 //we created another else stating if 'isStudent is equal in type and value
-// as 'true'
+// as 'true' is isStudent same has true.
 // than console.log('Welcome to Prime!').
 //our last else statement is console.log('How about the weather?').
 
@@ -140,7 +140,9 @@ if (number >= 2) {
 /*
 
 //FIX-- instructions asked to set colorOne to blue but its set to red and vice versa.
-// it should be colorOne = 'blue'; colorTwo = 'blue'; 
+// it should be colorOne = 'blue'; colorTwo = 'blue';
+// colorTwo needs to be set to purple.
+// colorTwo = 'purple'; 
 
 let colorOne = 'red';
 let colorTwo = 'blue';
