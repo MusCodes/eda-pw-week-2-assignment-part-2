@@ -29,6 +29,10 @@ if (number >= 2) {
 // we console.log ('Hi, Mary!'). 
 // or else, we console.log('How do you do?).
 
+//Corrections:
+
+// name isn't equal to mary so 'how do you do?' will get console loged.
+
 //CODE
 /*
 let name = 'Dane';
@@ -51,7 +55,14 @@ if (name === 'Mary') {
 // code is assigned to the value of 'code' which we previously gave the value of the numbers 123, multiplied by the number 2.
 //another conditional stating if code is greater than or equal to 250. code is now set to code multiple by 2.
 // we assigned the variable 'secret' the value of 'duper'. Secret is set to 'duper'.
-// we console.log(secret)
+// we console.log(secret).
+
+//Corrections:
+
+// 'super' will show up on the console because the second if statements conditional is false. code, which holds the value
+// 246 isn't greater than 250, that conditional is false so the variable secret still holds the value of 'super'.
+
+
 
 //CODE
 /*
@@ -73,7 +84,7 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// we assigned 'isStudent' the value of true. isStudent is true.
+// we assigned 'isStudent' the boolean true. isStudent is true.
 // we set the variable "age" to the value of the number 34. Age is 34
 // we set 'zip' value to the number 55407. zip is 55407
 // here, were created an if else if else conditional starting off with
@@ -88,8 +99,24 @@ console.log(secret)
 // than console.log('Welcome to Prime!').
 //our last else statement is console.log('How about the weather?').
 
+//CORRECTIONS:
+
+// 'welcome to prime' will be console loged because its  the first if statement that holds a true conditional.
+//  in the first if statement,
+//althought isStudent is equal to true,we are giving another conditional stating 55407 is greater than 80000 which is false.
+// the other if statement conditional both are false. isStudent doesn't equal false and 34 isn't less than 30.
+//which brings us to our 3rd conditional that will console log 'welcome to Prime!'. Because isStudent is equal to the 
+// boolean true.
 //CODE
 /*
+
+//
+
+
+
+
+
+//
 let isStudent = true;
 let age = 34;
 let zip = 55407;
